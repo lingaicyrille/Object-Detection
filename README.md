@@ -22,15 +22,8 @@ Project consists of a simple detection of object using OpenCV. with a camera, we
 Launch the utility: <br/>
 <img src="https://imgur.com/TjQjvMd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Select the disk:  <br/>
-<img src="https://imgur.com/TjQjvMd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
+
 
 <!--
  ```diff
